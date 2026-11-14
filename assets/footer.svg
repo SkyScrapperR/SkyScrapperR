@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#140a2a"/><stop offset="1" stop-color="#140a2a" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .w1{animation:d 10s linear infinite}.w2{animation:d 16s linear infinite reverse}
+      @keyframes d{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+      .t{font:700 24px 'Segoe UI',Ubuntu,sans-serif;fill:#fff;letter-spacing:2px}
+      .s{font:600 13px 'Consolas',monospace;fill:#feb47b;letter-spacing:4px}
+    </style>
+  </defs>
+  <g fill="#6a3093" opacity=".45" class="w2">
+    <path d="M0 70 q50 -16 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 V170 H0Z"/>
+  </g>
+  <g fill="#ff7e5f" opacity=".35" class="w1">
+    <path d="M0 85 q37.5 -12 75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 t75 0 V170 H0Z"/>
+  </g>
+  <rect y="95" width="1200" height="75" fill="#1a0b2e"/>
+  <text class="t" x="600" y="135" text-anchor="middle">Suksma for visiting!</text>
+  <text class="s" x="600" y="158" text-anchor="middle">OM SHANTI SHANTI SHANTI OM</text>
+</svg>

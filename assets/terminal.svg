@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400">
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff7e5f"/><stop offset="1" stop-color="#6a3093"/>
+    </linearGradient>
+    <style>
+      text{font-family:'Consolas','SFMono-Regular','Courier New',monospace;font-size:17px}
+      .p{fill:#feb47b;font-weight:700}.c{fill:#e6e1f0}.o{fill:#a99bc2}.k{fill:#ff7e5f;font-weight:700}.s{fill:#9be3b5}.m{fill:#c9a0ff}
+      .ttl{fill:#cfc4e6;font-size:14px}
+      .l{opacity:0;animation:in .35s ease-out forwards}
+      .l1{animation-delay:.3s}.l2{animation-delay:.9s}.l3{animation-delay:1.6s}.l4{animation-delay:2.2s}
+      .l5{animation-delay:2.9s}.l6{animation-delay:3.5s}.l7{animation-delay:4.2s}.l8{animation-delay:4.8s}
+      .l9{animation-delay:5.5s}.l10{animation-delay:6.1s}.l11{animation-delay:6.8s}
+      @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}
+      .cur{animation:blink 1s steps(1) infinite 7.2s;opacity:0}
+      @keyframes blink{0%{opacity:1}50%{opacity:0}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="398" rx="16" fill="#140f1f" stroke="#3b2a55" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="40" rx="16" fill="#1f1630"/>
+  <rect x="1" y="26" width="898" height="15" fill="#1f1630"/>
+  <rect x="1" y="40" width="898" height="2" fill="url(#bar)"/>
+  <circle cx="28" cy="21" r="7" fill="#ff5f57"/><circle cx="52" cy="21" r="7" fill="#febc2e"/><circle cx="76" cy="21" r="7" fill="#28c840"/>
+  <text class="ttl" x="450" y="26" text-anchor="middle">bagus@bali: ~/about-me</text>
+
+  <text class="l l1" x="28" y="80"><tspan class="p">➜ ~</tspan><tspan class="c"> whoami</tspan></text>
+  <text class="l l2" x="28" y="108"><tspan class="s">I Wayan Bagus Somabawa</tspan><tspan class="o"> · PGSD student @ Universitas Pendidikan Ganesha</tspan></text>
+
+  <text class="l l3" x="28" y="148"><tspan class="p">➜ ~</tspan><tspan class="c"> cat focus.txt</tspan></text>
+  <text class="l l4" x="28" y="176"><tspan class="k">[edu]  </tspan><tspan class="c">interactive learning media · gamification · AR/VR</tspan></text>
+  <text class="l l5" x="28" y="202"><tspan class="k">[web3] </tspan><tspan class="c">crypto futures · multi-indicator analysis · AI agents</tspan></text>
+
+  <text class="l l6" x="28" y="242"><tspan class="p">➜ ~</tspan><tspan class="c"> ./trade --mode futures --risk strict</tspan></text>
+  <text class="l l7" x="28" y="270"><tspan class="o">✔ setup confirmed   ✔ stop loss placed   </tspan><tspan class="s">✔ risk managed</tspan></text>
+
+  <text class="l l8" x="28" y="310"><tspan class="p">➜ ~</tspan><tspan class="c"> echo $MOTTO</tspan></text>
+  <text class="l l9" x="28" y="338"><tspan class="m">"Learn it. Build it. Teach it."</tspan></text>
+
+  <text class="l l10" x="28" y="374"><tspan class="p">➜ ~</tspan></text>
+  <rect class="cur" x="68" y="360" width="10" height="18" fill="#feb47b"/>
+</svg>

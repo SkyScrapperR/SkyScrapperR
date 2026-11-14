@@ -1,77 +1,42 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff7e5f,50:feb47b,100:6a3093&height=260&section=header&text=I%20Wayan%20Bagus%20Somabawa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Future%20Teacher%20%E2%80%A2%20Crypto%20Trader%20%E2%80%A2%20Tech%20Explorer&descAlignY=60&descSize=18&stroke=ffffff&strokeWidth=1" />
+  <img src="./assets/header.svg" width="100%" alt="I Wayan Bagus Somabawa — Future Teacher · Crypto Trader · Tech Explorer" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=FF7E5F&center=true&vCenter=true&multiline=false&width=650&lines=Om+Swastyastu!+Welcome+to+my+space+%F0%9F%8C%B4;PGSD+Student+%40+Undiksha+%F0%9F%93%9A;Turning+lessons+into+interactive+media+%F0%9F%8E%AE;Crypto+Futures+Trader+%F0%9F%93%88;Building+AI+trading+agents+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=FF7E5F&center=true&vCenter=true&width=640&lines=Turning+lessons+into+interactive+media+%F0%9F%8E%AE;Reading+charts+%26+lesson+plans+in+one+day+%F0%9F%93%88;Building+AI+agents+for+fun+%26+profit+%F0%9F%A4%96;Based+in+Bali%2C+learning+every+day+%F0%9F%8C%B4" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkyScrapperR&label=Profile%20views&color=ff7e5f&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/SkyScrapperR?label=Followers&style=for-the-badge&color=6a3093&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Based%20in-Bali%20%F0%9F%8C%B4-feb47b?style=for-the-badge" alt="Bali" />
+  <img src="https://komarev.com/ghpvc/?username=SkyScrapperR&label=views&color=ff7e5f&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/SkyScrapperR?label=followers&style=flat-square&color=6a3093&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/based_in-Bali-feb47b?style=flat-square" alt="Bali" />
+  <img src="https://img.shields.io/badge/status-building_things-c9a0ff?style=flat-square" alt="status" />
 </p>
 
-<!-- ===================== ABOUT ===================== -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
-</h2>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```ts
-class Bagus extends Human {
-  name     = "I Wayan Bagus Somabawa";
-  base     = "Bali, Indonesia 🌴";
-  study    = "PGSD @ Universitas Pendidikan Ganesha";
-  roles    = ["Future Teacher", "Crypto Trader", "Tech Explorer"];
-  loves    = ["EdTech", "Gamification", "AR/VR", "Web3"];
-  learning = ["JavaScript", "Python", "AI Agents"];
-
-  motto() {
-    return "Learn it. Build it. Teach it.";
-  }
-}
-```
-
-</td>
-<td width="45%" valign="top">
-
-**⚡ Right now**
-- 🎓 Belajar jadi guru SD yang melek teknologi
-- 🎮 Bikin media pembelajaran interaktif & gamifikasi
-- 🤖 Eksperimen AI trading agent di kompetisi devnet
-- 📈 Analisis crypto futures multi-indikator
-
-**💬 Ajak ngobrol soal**
-edtech · trading · web3 · desain presentasi
-
-</td>
-</tr>
-</table>
-
-<!-- ===================== PROJECTS ===================== -->
-<h2>🚀 Featured Projects</h2>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/SkyScrapperR/media-pembelajaran-sistem-pencernaan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyScrapperR&repo=media-pembelajaran-sistem-pencernaan&theme=tokyonight&hide_border=true&title_color=ff7e5f&icon_color=feb47b" />
-  </a>
-  <a href="https://github.com/SkyScrapperR/quisbing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyScrapperR&repo=quisbing&theme=tokyonight&hide_border=true&title_color=ff7e5f&icon_color=feb47b" />
-  </a>
+  <img src="./assets/terminal.svg" width="88%" alt="about me terminal" />
 </p>
 
-<!-- ===================== STACK ===================== -->
-<h2>🛠️ Tech Stack & Tools</h2>
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,tailwind,nodejs,git,github,vscode,figma,vercel,linux&perline=7&theme=dark" />
+  <a href="https://github.com/SkyScrapperR/media-pembelajaran-sistem-pencernaan"><img src="./assets/project-pencernaan.svg" width="48%" alt="Jelajah Pencernaan" /></a>
+  &nbsp;
+  <a href="https://github.com/SkyScrapperR/quisbing"><img src="./assets/project-quisbing.svg" width="48%" alt="Quisbing" /></a>
+</p>
+
+<br/>
+
+<h2 align="center">🛠️ Toolbox</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,tailwind,nodejs,git,github,vscode,figma,vercel,linux&perline=7&theme=dark" alt="skills" />
 </p>
 
 <p align="center">
@@ -79,39 +44,18 @@ edtech · trading · web3 · desain presentasi
   <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
   <img src="https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-<!-- ===================== STATS ===================== -->
-<h2>📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SkyScrapperR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=ff7e5f&icon_color=feb47b&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyScrapperR&layout=compact&theme=tokyonight&hide_border=true&title_color=ff7e5f" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SkyScrapperR&theme=tokyonight&hide_border=true&ring=FF7E5F&fire=FEB47B&currStreakLabel=FF7E5F" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkyScrapperR&bg_color=1a1b27&color=feb47b&line=ff7e5f&point=ffffff&area=true&area_color=6a3093&hide_border=true" width="100%" />
-</p>
-
-<details>
-<summary><b>🏆 Trophies</b> (klik buat buka)</summary>
 <br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SkyScrapperR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-</details>
 
-<!-- ===================== QUOTE ===================== -->
+<h2 align="center">🔥 Consistency</h2>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SkyScrapperR&theme=tokyonight&hide_border=true&background=140F1F&ring=FF7E5F&fire=FEB47B&currStreakLabel=FF7E5F&sideLabels=CFC4E6&dates=A99BC2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
 </p>
 
-<!-- ===================== CONNECT ===================== -->
+<br/>
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
@@ -119,7 +63,6 @@ edtech · trading · web3 · desain presentasi
   <a href="https://x.com/shinchhii"><img src="https://img.shields.io/badge/X-@shinchhii-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a3093,50:feb47b,100:ff7e5f&height=130&section=footer&text=Suksma%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70" />
+  <img src="./assets/footer.svg" width="100%" alt="Suksma for visiting!" />
 </p>
