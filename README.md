@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="I Wayan Bagus Somabawa — Future Teacher · Crypto Trader · Tech Explorer" />
+  <img src="./assets/header.svg" width="100%" alt="Skyscrapper! — Future Teacher · Crypto Trader · Tech Explorer" />
 </p>
 
 <p align="center">
